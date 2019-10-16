@@ -1,0 +1,28 @@
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.deps.json
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.runtimeconfig.json
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.runtimeconfig.dev.json
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.dll
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.pdb
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.AssemblyInfo.cs
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.dll
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.pdb
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.dll
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.pdb
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.csproj.CopyComplete
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.deps.json
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.runtimeconfig.json
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.runtimeconfig.dev.json
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.dll
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory.pdb
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.dll
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.pdb
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.AssemblyInfo.cs
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.csproj.CopyComplete
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.dll
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory\obj\Debug\netcoreapp2.2\CopyDirectory.pdb

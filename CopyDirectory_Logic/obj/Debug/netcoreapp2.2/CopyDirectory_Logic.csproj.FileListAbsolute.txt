@@ -1,0 +1,18 @@
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.deps.json
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.dll
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.pdb
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.AssemblyInfoInputs.cache
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.AssemblyInfo.cs
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.dll
+C:\Users\Tarek\Desktop\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.pdb
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.deps.json
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.dll
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\bin\Debug\netcoreapp2.2\CopyDirectory_Logic.pdb
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.AssemblyInfoInputs.cache
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.AssemblyInfo.cs
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.dll
+C:\Users\Tarek\Desktop\New folder\CopyDirectory\CopyDirectory_Logic\obj\Debug\netcoreapp2.2\CopyDirectory_Logic.pdb
